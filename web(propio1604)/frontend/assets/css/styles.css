@@ -1,0 +1,61 @@
+body{
+    color: rgb(175, 125, 50);
+    font-family:cursive;
+    text-align: center;
+    background-color: rgb(138, 206, 11);
+    font-weight: 900;
+}
+header{
+    background-color: rgb(171, 255, 14);
+    padding: 0%;
+    font-size: 26px;
+    border-radius: 15px;
+}
+nav{
+    background-color: rgb(173, 255, 21);
+    text-align: center;
+    border-radius: 15px;
+}  
+ul{
+    display: flex; /* Esto hará que los elementos dentro del ul se alineen en una fila */
+    justify-content: center; /* Esto centrará los elementos dentro del ul */
+    list-style-type: none; /* Esto eliminará los puntos de la lista */
+    gap: 20px; /* Esto separará los elementos dentro del ul */
+    padding: 0; /* Esto eliminará el padding del ul *//* Esto aumentará el tamaño de la fuente de los enlaces */
+    font-size: 20px;
+    font-family: cursive;
+}   
+a{
+    color: rgb(175, 125, 50);
+    text-decoration: none; /* Esto eliminará el subrayado de los enlaces */
+}
+a:hover{
+    color: rgb(173, 255, 21);
+    text-decoration:double; 
+    transition: 0.2s;
+    padding: 5px;
+    background-color: rgb(255, 247, 248);
+    border-radius: 10px;
+
+}
+section{
+    background-color: rgb(173, 255, 21);
+    border-radius: 6%;
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+}
+textarea{
+    border-radius: 10px;
+    border-color: rgb(173, 255, 61);
+}
+button{
+    background-color: rgb(173, 255, 21);
+    border-radius: 20%;
+    border-color: rgb(173, 255, 61);
+    font-size: 15px;
+    font-family: cursive;
+    padding: 5px;
+    margin: 7px;
+    color: aliceblue;
+}
