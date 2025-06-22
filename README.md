@@ -1,2 +1,2 @@
 # web-propio-
-Este repositorio contiene mi página web personal, donde muestro mi portafolio y proyectos desarrollados. Sirvio como ejercicio para mejorar mis habilidades en desarrollo web.
+Este repositorio contiene mi página web personal, donde logre aplicar algunos de los conceptos aprendidos en clases y por eso sirvio como ejercicio para mejorar mis habilidades en desarrollo web.
